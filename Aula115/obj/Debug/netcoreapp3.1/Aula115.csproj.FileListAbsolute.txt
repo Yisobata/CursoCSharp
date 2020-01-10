@@ -1,0 +1,11 @@
+C:\Users\Samsung\OneDrive\EstudosJapa\C#\Aula115\Aula115\bin\Debug\netcoreapp3.1\Aula115.exe
+C:\Users\Samsung\OneDrive\EstudosJapa\C#\Aula115\Aula115\bin\Debug\netcoreapp3.1\Aula115.deps.json
+C:\Users\Samsung\OneDrive\EstudosJapa\C#\Aula115\Aula115\bin\Debug\netcoreapp3.1\Aula115.runtimeconfig.json
+C:\Users\Samsung\OneDrive\EstudosJapa\C#\Aula115\Aula115\bin\Debug\netcoreapp3.1\Aula115.runtimeconfig.dev.json
+C:\Users\Samsung\OneDrive\EstudosJapa\C#\Aula115\Aula115\bin\Debug\netcoreapp3.1\Aula115.dll
+C:\Users\Samsung\OneDrive\EstudosJapa\C#\Aula115\Aula115\bin\Debug\netcoreapp3.1\Aula115.pdb
+C:\Users\Samsung\OneDrive\EstudosJapa\C#\Aula115\Aula115\obj\Debug\netcoreapp3.1\Aula115.csprojAssemblyReference.cache
+C:\Users\Samsung\OneDrive\EstudosJapa\C#\Aula115\Aula115\obj\Debug\netcoreapp3.1\Aula115.AssemblyInfoInputs.cache
+C:\Users\Samsung\OneDrive\EstudosJapa\C#\Aula115\Aula115\obj\Debug\netcoreapp3.1\Aula115.AssemblyInfo.cs
+C:\Users\Samsung\OneDrive\EstudosJapa\C#\Aula115\Aula115\obj\Debug\netcoreapp3.1\Aula115.dll
+C:\Users\Samsung\OneDrive\EstudosJapa\C#\Aula115\Aula115\obj\Debug\netcoreapp3.1\Aula115.pdb
